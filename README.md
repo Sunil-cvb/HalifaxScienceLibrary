@@ -1,0 +1,2 @@
+# HalifaxScienceLibrary
+Halifax Science Library
